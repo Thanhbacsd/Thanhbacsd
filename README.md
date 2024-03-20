@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thanhbacsd
 - 👀 I’m interested in the program
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate in this field
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
